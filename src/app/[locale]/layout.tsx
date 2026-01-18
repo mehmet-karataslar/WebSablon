@@ -1,8 +1,7 @@
 import type { Metadata } from 'next';
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
-import { ThemeProvider } from '@/core/theme';
-import { Header, Footer } from '@/shared/components/layout';
+import { ClientProviders } from './ClientProviders';
 import '@/core/theme/theme.css';
 
 export const metadata: Metadata = {
@@ -23,14 +22,13 @@ export default async function LocaleLayout({
     return (
         <html lang={locale} suppressHydrationWarning>
             <body>
-                <ThemeProvider>
-                    <NextIntlClientProvider messages={messages}>
-                        <Header />
-                        <main>{children}</main>
-                        <Footer />
-                    </NextIntlClientProvider>
-                </ThemeProvider>
+                <NextIntlClientProvider messages={messages}>
+                    <ClientProviders>
+                        {children}
+                    </ClientProviders>
+                </NextIntlClientProvider>
             </body>
         </html>
     );
 }
+
