@@ -113,12 +113,12 @@ export function ThemeProvider({
         availableThemes: themes,
     };
 
-    // Prevent flash of unstyled content
-    if (!mounted) {
-        return <div style={{ visibility: 'hidden' }}>{children}</div>;
-    }
-
-    return <ThemeContext.Provider value={value}>{children}</ThemeContext.Provider>;
+    // Always provide context, but hide content until mounted to prevent flash
+    return (
+        <ThemeContext.Provider value={value}>
+            {mounted ? children : <div style={{ visibility: 'hidden' }}>{children}</div>}
+        </ThemeContext.Provider>
+    );
 }
 
 export function useTheme() {
