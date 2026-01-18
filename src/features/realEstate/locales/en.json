@@ -1,0 +1,12 @@
+{
+    "title": "Real Estate",
+    "subtitle": "Find your dream home",
+    "sale": "For Sale",
+    "rent": "For Rent",
+    "types": {
+        "apartment": "Apartment",
+        "house": "House",
+        "office": "Office",
+        "land": "Land"
+    }
+}

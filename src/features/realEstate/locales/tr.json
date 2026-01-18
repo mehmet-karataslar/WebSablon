@@ -1,0 +1,12 @@
+{
+    "title": "Gayrimenkul",
+    "subtitle": "Hayalinizdeki evi bulun",
+    "sale": "Satılık",
+    "rent": "Kiralık",
+    "types": {
+        "apartment": "Daire",
+        "house": "Müstakil Ev",
+        "office": "Ofis",
+        "land": "Arsa"
+    }
+}

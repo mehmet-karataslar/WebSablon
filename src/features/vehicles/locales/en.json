@@ -1,0 +1,54 @@
+{
+    "title": "Vehicle Gallery",
+    "subtitle": "Premium quality vehicles",
+    "searchPlaceholder": "Search vehicles...",
+    "filters": {
+        "title": "Filters",
+        "brand": "Brand",
+        "model": "Model",
+        "year": "Year",
+        "price": "Price",
+        "fuelType": "Fuel Type",
+        "transmission": "Transmission",
+        "bodyType": "Body Type",
+        "clearAll": "Clear All"
+    },
+    "fuelTypes": {
+        "petrol": "Petrol",
+        "diesel": "Diesel",
+        "electric": "Electric",
+        "hybrid": "Hybrid",
+        "lpg": "LPG"
+    },
+    "transmissions": {
+        "manual": "Manual",
+        "automatic": "Automatic"
+    },
+    "bodyTypes": {
+        "sedan": "Sedan",
+        "hatchback": "Hatchback",
+        "suv": "SUV",
+        "coupe": "Coupe",
+        "wagon": "Station Wagon",
+        "van": "Van",
+        "pickup": "Pickup"
+    },
+    "card": {
+        "year": "Year",
+        "mileage": "Mileage",
+        "km": "km",
+        "details": "Details",
+        "sold": "Sold",
+        "featured": "Featured"
+    },
+    "detail": {
+        "specifications": "Specifications",
+        "description": "Description",
+        "gallery": "Gallery",
+        "contact": "Contact",
+        "share": "Share",
+        "similar": "Similar Vehicles"
+    },
+    "empty": "No vehicles found",
+    "loading": "Loading vehicles..."
+}

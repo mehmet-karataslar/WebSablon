@@ -1,0 +1,75 @@
+{
+    "common": {
+        "siteName": "Web Şablon",
+        "loading": "Yükleniyor...",
+        "error": "Bir hata oluştu",
+        "retry": "Tekrar Dene",
+        "save": "Kaydet",
+        "cancel": "İptal",
+        "delete": "Sil",
+        "edit": "Düzenle",
+        "add": "Ekle",
+        "search": "Ara",
+        "filter": "Filtrele",
+        "sort": "Sırala",
+        "viewAll": "Tümünü Gör",
+        "viewMore": "Daha Fazla",
+        "back": "Geri",
+        "next": "İleri",
+        "previous": "Önceki",
+        "yes": "Evet",
+        "no": "Hayır",
+        "confirm": "Onayla",
+        "close": "Kapat",
+        "noResults": "Sonuç bulunamadı",
+        "required": "Zorunlu alan"
+    },
+    "nav": {
+        "home": "Ana Sayfa",
+        "about": "Hakkımızda",
+        "services": "Hizmetler",
+        "contact": "İletişim",
+        "menu": "Menü"
+    },
+    "theme": {
+        "title": "Tema",
+        "light": "Açık",
+        "dark": "Koyu",
+        "system": "Sistem",
+        "selectTheme": "Tema Seç"
+    },
+    "language": {
+        "title": "Dil",
+        "selectLanguage": "Dil Seç"
+    },
+    "footer": {
+        "copyright": "© {year} Tüm hakları saklıdır.",
+        "privacyPolicy": "Gizlilik Politikası",
+        "termsOfService": "Kullanım Koşulları"
+    },
+    "contact": {
+        "title": "İletişim",
+        "name": "Adınız",
+        "email": "E-posta",
+        "phone": "Telefon",
+        "message": "Mesajınız",
+        "send": "Gönder",
+        "success": "Mesajınız başarıyla gönderildi!",
+        "error": "Mesaj gönderilemedi. Lütfen tekrar deneyin."
+    },
+    "auth": {
+        "login": "Giriş Yap",
+        "logout": "Çıkış Yap",
+        "register": "Kayıt Ol",
+        "forgotPassword": "Şifremi Unuttum",
+        "email": "E-posta",
+        "password": "Şifre",
+        "confirmPassword": "Şifre Tekrar"
+    },
+    "errors": {
+        "notFound": "Sayfa bulunamadı",
+        "serverError": "Sunucu hatası",
+        "unauthorized": "Yetkisiz erişim",
+        "forbidden": "Erişim engellendi"
+    }
+}

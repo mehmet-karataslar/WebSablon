@@ -1,0 +1,75 @@
+{
+    "common": {
+        "siteName": "Web Template",
+        "loading": "Loading...",
+        "error": "An error occurred",
+        "retry": "Retry",
+        "save": "Save",
+        "cancel": "Cancel",
+        "delete": "Delete",
+        "edit": "Edit",
+        "add": "Add",
+        "search": "Search",
+        "filter": "Filter",
+        "sort": "Sort",
+        "viewAll": "View All",
+        "viewMore": "View More",
+        "back": "Back",
+        "next": "Next",
+        "previous": "Previous",
+        "yes": "Yes",
+        "no": "No",
+        "confirm": "Confirm",
+        "close": "Close",
+        "noResults": "No results found",
+        "required": "Required field"
+    },
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "contact": "Contact",
+        "menu": "Menu"
+    },
+    "theme": {
+        "title": "Theme",
+        "light": "Light",
+        "dark": "Dark",
+        "system": "System",
+        "selectTheme": "Select Theme"
+    },
+    "language": {
+        "title": "Language",
+        "selectLanguage": "Select Language"
+    },
+    "footer": {
+        "copyright": "© {year} All rights reserved.",
+        "privacyPolicy": "Privacy Policy",
+        "termsOfService": "Terms of Service"
+    },
+    "contact": {
+        "title": "Contact",
+        "name": "Your Name",
+        "email": "Email",
+        "phone": "Phone",
+        "message": "Your Message",
+        "send": "Send",
+        "success": "Your message has been sent successfully!",
+        "error": "Failed to send message. Please try again."
+    },
+    "auth": {
+        "login": "Login",
+        "logout": "Logout",
+        "register": "Register",
+        "forgotPassword": "Forgot Password",
+        "email": "Email",
+        "password": "Password",
+        "confirmPassword": "Confirm Password"
+    },
+    "errors": {
+        "notFound": "Page not found",
+        "serverError": "Server error",
+        "unauthorized": "Unauthorized access",
+        "forbidden": "Access denied"
+    }
+}

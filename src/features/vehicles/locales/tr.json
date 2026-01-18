@@ -1,0 +1,54 @@
+{
+    "title": "Araç Galerisi",
+    "subtitle": "En kaliteli araçlar burada",
+    "searchPlaceholder": "Araç ara...",
+    "filters": {
+        "title": "Filtreler",
+        "brand": "Marka",
+        "model": "Model",
+        "year": "Yıl",
+        "price": "Fiyat",
+        "fuelType": "Yakıt Tipi",
+        "transmission": "Vites",
+        "bodyType": "Kasa Tipi",
+        "clearAll": "Temizle"
+    },
+    "fuelTypes": {
+        "petrol": "Benzin",
+        "diesel": "Dizel",
+        "electric": "Elektrik",
+        "hybrid": "Hibrit",
+        "lpg": "LPG"
+    },
+    "transmissions": {
+        "manual": "Manuel",
+        "automatic": "Otomatik"
+    },
+    "bodyTypes": {
+        "sedan": "Sedan",
+        "hatchback": "Hatchback",
+        "suv": "SUV",
+        "coupe": "Coupe",
+        "wagon": "Station Wagon",
+        "van": "Minivan",
+        "pickup": "Pickup"
+    },
+    "card": {
+        "year": "Yıl",
+        "mileage": "Kilometre",
+        "km": "km",
+        "details": "Detaylar",
+        "sold": "Satıldı",
+        "featured": "Öne Çıkan"
+    },
+    "detail": {
+        "specifications": "Teknik Özellikler",
+        "description": "Açıklama",
+        "gallery": "Galeri",
+        "contact": "İletişim",
+        "share": "Paylaş",
+        "similar": "Benzer Araçlar"
+    },
+    "empty": "Araç bulunamadı",
+    "loading": "Araçlar yükleniyor..."
+}
