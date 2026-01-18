@@ -33,7 +33,7 @@ Bu iskelet, **Feature-Based Modüler Monolith** mimarisini kullanır. Bu yaklaş
 - ✅ Modüller arası bağımlılık minimumda tutulur
 - ✅ İleride microservices'e geçiş kolaylaşır
 
-```
+```text
 src/
 ├── app/                    # Next.js App Router (Sayfalar)
 ├── core/                   # Çekirdek: Tema + i18n
@@ -46,7 +46,7 @@ src/
 
 ## 📁 Detaylı Klasör Yapısı
 
-```
+```text
 webSablon/
 ├── src/
 │   ├── app/
@@ -372,6 +372,4 @@ MIT License - Bu projeyi özgürce kullanabilir, değiştirebilir ve dağıtabil
 
 ---
 
-<div align="center">
-  <strong>WebSablon</strong> ile hızlı ve modüler web projeleri geliştirin! 🚀
-</div>
+**WebSablon** ile hızlı ve modüler web projeleri geliştirin! 🚀
